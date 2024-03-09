@@ -1,0 +1,15 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+  
+}
+.text-font{
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+   
+}
+.border-hover:hover{
+  border-bottom: solid;
+  border-color:  rgb(236, 112, 0);;
+}
